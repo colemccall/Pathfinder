@@ -1,0 +1,11 @@
+﻿  Main.cpp
+  Map.cpp
+C:\Users\colem\Desktop\Sophomore\Spring\Artificial Intelligence\Revamped Pathfinder\Revamped Pathfinder\Map.cpp(188,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colem\Desktop\Sophomore\Spring\Artificial Intelligence\Revamped Pathfinder\Revamped Pathfinder\Map.cpp(349,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colem\Desktop\Sophomore\Spring\Artificial Intelligence\Revamped Pathfinder\Revamped Pathfinder\Map.cpp(569,6): warning C4101: 'diffX': unreferenced local variable
+C:\Users\colem\Desktop\Sophomore\Spring\Artificial Intelligence\Revamped Pathfinder\Revamped Pathfinder\Map.cpp(569,13): warning C4101: 'diffY': unreferenced local variable
+C:\Users\colem\Desktop\Sophomore\Spring\Artificial Intelligence\Revamped Pathfinder\Revamped Pathfinder\Map.cpp(570,19): warning C4101: 'directionY': unreferenced local variable
+C:\Users\colem\Desktop\Sophomore\Spring\Artificial Intelligence\Revamped Pathfinder\Revamped Pathfinder\Map.cpp(570,7): warning C4101: 'directionX': unreferenced local variable
+C:\Users\colem\Desktop\Sophomore\Spring\Artificial Intelligence\Revamped Pathfinder\Revamped Pathfinder\Map.cpp(1121,17): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Generating Code...
+  Revamped Pathfinder.vcxproj -> C:\Users\colem\Desktop\Sophomore\Spring\Artificial Intelligence\Revamped Pathfinder\Debug\Revamped Pathfinder.exe
